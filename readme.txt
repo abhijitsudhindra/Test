@@ -8,4 +8,5 @@ chaning mybranch locally
 changing mybranch remote
 changing master locally
 chainging master locally again
-
+changing branch 2 remote
+changing branch 2 locally
